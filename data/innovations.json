@@ -2,203 +2,403 @@
   "innovations": [
     {
       "id": 1,
-      "title": "The Abacus",
+      "title": "L'Abaco",
       "year": -2700,
-      "category": "Computing",
-      "inventor": "Ancient Mesopotamians",
+      "category": "Informatica",
+      "inventor": "Antichi Mesopotamici",
       "location": "Mesopotamia",
-      "description": "The first known calculating device, consisting of beads or stones moved along rods or in grooves. It enabled basic arithmetic operations and was crucial for trade and commerce.",
-      "impact": "Revolutionized early mathematics and commerce, laying the foundation for computational thinking. It remained the primary calculating tool for thousands of years and is still used today in many parts of the world."
+      "description": "Il primo dispositivo di calcolo conosciuto, composto da perline o pietre mosse lungo bastoncini o scanalature. Consentiva operazioni aritmetiche di base ed era cruciale per il commercio.",
+      "impact": "Rivoluzionò la matematica e il commercio antichi, gettando le basi del pensiero computazionale. Rimase il principale strumento di calcolo per migliaia di anni ed è ancora utilizzato oggi in molte parti del mondo."
     },
     {
       "id": 2,
-      "title": "The Printing Press",
+      "title": "La Stampa a Caratteri Mobili",
       "year": 1440,
-      "category": "Communication",
+      "category": "Comunicazione",
       "inventor": "Johannes Gutenberg",
-      "location": "Mainz, Germany",
-      "description": "Movable type printing technology that enabled mass production of books and written materials. Used metal type pieces that could be rearranged to form different pages.",
-      "impact": "Democratized knowledge by making books affordable and widely available. Accelerated the Renaissance, Reformation, and Scientific Revolution. Fundamental to the spread of literacy and education."
+      "location": "Magonza, Germania",
+      "description": "Tecnologia di stampa con caratteri mobili che permise la produzione di massa di libri e materiali scritti. Utilizzava pezzi di metallo che potevano essere riorganizzati per formare pagine diverse.",
+      "impact": "Democratizzò la conoscenza rendendo i libri accessibili e ampiamente disponibili. Accelerò il Rinascimento, la Riforma e la Rivoluzione Scientifica. Fondamentale per la diffusione dell'alfabetizzazione e dell'educazione."
     },
     {
       "id": 3,
-      "title": "The Steam Engine",
+      "title": "La Macchina a Vapore",
       "year": 1712,
-      "category": "Energy",
+      "category": "Energia",
       "inventor": "Thomas Newcomen",
-      "location": "England",
-      "description": "The first practical steam engine, initially used to pump water from mines. Later improved by James Watt in 1769, becoming more efficient and versatile.",
-      "impact": "Triggered the Industrial Revolution, transforming manufacturing, transportation, and society. Enabled the development of factories, railways, and steamships, fundamentally changing how humans work and live."
+      "location": "Inghilterra",
+      "description": "La prima macchina a vapore pratica, inizialmente utilizzata per pompare acqua dalle miniere. Successivamente migliorata da James Watt nel 1769, diventando più efficiente e versatile.",
+      "impact": "Scatenò la Rivoluzione Industriale, trasformando manifattura, trasporti e società. Rese possibili fabbriche, ferrovie e navi a vapore, cambiando fondamentalmente il modo in cui gli esseri umani lavorano e vivono."
     },
     {
       "id": 4,
-      "title": "The Telegraph",
+      "title": "Il Telegrafo",
       "year": 1837,
-      "category": "Communication",
+      "category": "Comunicazione",
       "inventor": "Samuel Morse",
-      "location": "United States",
-      "description": "First practical long-distance communication system using electrical signals sent through wires. Used Morse code to transmit messages across vast distances instantly.",
-      "impact": "Revolutionized long-distance communication, enabling rapid coordination of business, government, and personal affairs. Laid the groundwork for modern telecommunications and global connectivity."
+      "location": "Stati Uniti",
+      "description": "Primo sistema pratico di comunicazione a lunga distanza utilizzando segnali elettrici inviati attraverso fili. Utilizzava il codice Morse per trasmettere messaggi istantaneamente attraverso vaste distanze.",
+      "impact": "Rivoluzionò la comunicazione a lunga distanza, permettendo rapido coordinamento di affari, governo e relazioni personali. Gettò le basi per le moderne telecomunicazioni e la connettività globale."
     },
     {
       "id": 5,
-      "title": "The Light Bulb",
+      "title": "La Lampadina",
       "year": 1879,
-      "category": "Energy",
+      "category": "Energia",
       "inventor": "Thomas Edison",
-      "location": "United States",
-      "description": "Practical incandescent electric light bulb that could burn for hours. Part of Edison's complete electrical power distribution system including generators and wiring.",
-      "impact": "Extended productive hours beyond daylight, transformed urban life, and enabled 24-hour societies. Sparked the electrical age and the development of power grids that power modern civilization."
+      "location": "Stati Uniti",
+      "description": "Lampadina elettrica incandescente pratica che poteva bruciare per ore. Parte del sistema completo di distribuzione elettrica di Edison che includeva generatori e cablaggio.",
+      "impact": "Estese le ore produttive oltre la luce del giorno, trasformò la vita urbana e permise società attive 24 ore su 24. Diede inizio all'era elettrica e allo sviluppo delle reti elettriche che alimentano la civiltà moderna."
     },
     {
       "id": 6,
-      "title": "The Telephone",
+      "title": "Il Telefono",
       "year": 1876,
-      "category": "Communication",
+      "category": "Comunicazione",
       "inventor": "Alexander Graham Bell",
-      "location": "United States",
-      "description": "Device that converts sound waves into electrical signals for transmission over distances, then converts them back to sound. Enabled real-time voice communication.",
-      "impact": "Revolutionized personal and business communication, shrinking the world by enabling instant voice contact. Foundation for modern telecommunications infrastructure and mobile technology."
+      "location": "Stati Uniti",
+      "description": "Dispositivo che converte le onde sonore in segnali elettrici per la trasmissione a distanza, poi li riconverte in suono. Permise la comunicazione vocale in tempo reale.",
+      "impact": "Rivoluzionò la comunicazione personale e commerciale, rimpicciolendo il mondo permettendo contatto vocale istantaneo. Fondamento per l'infrastruttura delle telecomunicazioni moderne e la tecnologia mobile."
     },
     {
       "id": 7,
-      "title": "The Radio",
+      "title": "La Radio",
       "year": 1894,
-      "category": "Communication",
+      "category": "Comunicazione",
       "inventor": "Guglielmo Marconi",
-      "location": "Italy",
-      "description": "Wireless transmission of electromagnetic signals through space. Enabled long-distance communication without physical connections like wires or cables.",
-      "impact": "Created mass media, enabling simultaneous communication to millions. Transformed entertainment, news dissemination, and emergency communications. Essential for aviation, shipping, and military operations."
+      "location": "Italia",
+      "description": "Trasmissione wireless di segnali elettromagnetici attraverso lo spazio. Permise comunicazione a lunga distanza senza connessioni fisiche come fili o cavi.",
+      "impact": "Creò i mass media, permettendo comunicazione simultanea a milioni di persone. Trasformò intrattenimento, diffusione di notizie e comunicazioni di emergenza. Essenziale per aviazione, navigazione e operazioni militari."
     },
     {
       "id": 8,
-      "title": "The Automobile",
+      "title": "L'Automobile",
       "year": 1886,
-      "category": "Transportation",
+      "category": "Trasporti",
       "inventor": "Karl Benz",
-      "location": "Germany",
-      "description": "First practical automobile powered by an internal combustion engine. The Benz Patent-Motorwagen was the first true automobile designed from the ground up as a motor vehicle.",
-      "impact": "Revolutionized personal transportation and urban planning. Enabled suburbanization, changed social structures, and created entire industries. Transformed how people live, work, and interact."
+      "location": "Germania",
+      "description": "Prima automobile pratica alimentata da un motore a combustione interna. La Benz Patent-Motorwagen fu la prima vera automobile progettata da zero come veicolo a motore.",
+      "impact": "Rivoluzionò i trasporti personali e la pianificazione urbana. Permise la suburbanizzazione, cambiò le strutture sociali e creò intere industrie. Trasformò come le persone vivono, lavorano e interagiscono."
     },
     {
       "id": 9,
-      "title": "The Airplane",
+      "title": "L'Aeroplano",
       "year": 1903,
-      "category": "Transportation",
-      "inventor": "Wright Brothers",
-      "location": "United States",
-      "description": "First powered, heavier-than-air machine to achieve controlled, sustained flight. The Wright Flyer flew for 12 seconds and covered 120 feet on its first flight.",
-      "impact": "Shrank the world by enabling rapid long-distance travel. Revolutionized warfare, commerce, and tourism. Made global connectivity and cultural exchange possible on an unprecedented scale."
+      "category": "Trasporti",
+      "inventor": "Fratelli Wright",
+      "location": "Stati Uniti",
+      "description": "Prima macchina motorizzata più pesante dell'aria a ottenere volo controllato e sostenuto. Il Wright Flyer volò per 12 secondi e coprì 120 piedi nel suo primo volo.",
+      "impact": "Rimpicciolì il mondo permettendo viaggi rapidi a lunga distanza. Rivoluzionò guerra, commercio e turismo. Rese possibili connettività globale e scambio culturale su scala senza precedenti."
     },
     {
       "id": 10,
-      "title": "The Computer",
+      "title": "Il Computer",
       "year": 1936,
-      "category": "Computing",
+      "category": "Informatica",
       "inventor": "Alan Turing",
-      "location": "England",
-      "description": "Theoretical computing machine (Turing Machine) that laid the foundation for modern computer science. Described a device that could perform any computation that could be described algorithmically.",
-      "impact": "Established the theoretical foundation for all modern computing. Led to the development of programmable computers, software, and the digital age that defines modern society."
+      "location": "Inghilterra",
+      "description": "Macchina di calcolo teorica (Macchina di Turing) che gettò le fondamenta per l'informatica moderna. Descrisse un dispositivo che poteva eseguire qualsiasi computazione descrivibile algoritmicamente.",
+      "impact": "Stabilì le fondamenta teoriche per tutto il computing moderno. Portò allo sviluppo di computer programmabili, software e l'era digitale che definisce la società moderna."
     },
     {
       "id": 11,
-      "title": "The Transistor",
+      "title": "Il Transistor",
       "year": 1947,
-      "category": "Electronics",
-      "inventor": "Bell Labs Team",
-      "location": "United States",
-      "description": "Semiconductor device that can amplify or switch electronic signals. Replaced bulky vacuum tubes with a much smaller, more efficient, and reliable component.",
-      "impact": "Enabled the miniaturization of electronics, leading to personal computers, smartphones, and all modern digital devices. Foundation of the information age and digital revolution."
+      "category": "Elettronica",
+      "inventor": "Team Bell Labs",
+      "location": "Stati Uniti",
+      "description": "Dispositivo semiconduttore che può amplificare o commutare segnali elettronici. Sostituì i voluminosi tubi a vuoto con un componente molto più piccolo, efficiente e affidabile.",
+      "impact": "Permise la miniaturizzazione dell'elettronica, portando a personal computer, smartphone e tutti i dispositivi digitali moderni. Fondamento dell'era dell'informazione e della rivoluzione digitale."
     },
     {
       "id": 12,
-      "title": "The Internet",
+      "title": "Internet",
       "year": 1969,
-      "category": "Communication",
-      "inventor": "ARPANET Team",
-      "location": "United States",
-      "description": "Global network of interconnected computers that can communicate using standardized protocols. Started as ARPANET, a military research project, and evolved into the modern internet.",
-      "impact": "Transformed human communication, commerce, education, and entertainment. Created the global information society, enabling instant worldwide communication and access to knowledge."
+      "category": "Comunicazione",
+      "inventor": "Team ARPANET",
+      "location": "Stati Uniti",
+      "description": "Rete globale di computer interconnessi che possono comunicare utilizzando protocolli standardizzati. Iniziò come ARPANET, progetto di ricerca militare, ed evolse nell'internet moderno.",
+      "impact": "Trasformò comunicazione umana, commercio, educazione e intrattenimento. Creò la società dell'informazione globale, permettendo comunicazione mondiale istantanea e accesso alla conoscenza."
     },
     {
       "id": 13,
-      "title": "The World Wide Web",
+      "title": "Il World Wide Web",
       "year": 1989,
-      "category": "Communication",
+      "category": "Comunicazione",
       "inventor": "Tim Berners-Lee",
-      "location": "Switzerland",
-      "description": "System of interlinked hypertext documents accessed via the Internet using web browsers. Introduced concepts of URLs, HTTP, and HTML that define web browsing today.",
-      "impact": "Made the internet accessible to ordinary users, democratizing information access. Enabled e-commerce, social media, and digital transformation of virtually every industry and aspect of life."
+      "location": "Svizzera",
+      "description": "Sistema di documenti ipertesto collegati accessibili via Internet utilizzando browser web. Introdusse i concetti di URL, HTTP e HTML che definiscono la navigazione web oggi.",
+      "impact": "Rese Internet accessibile agli utenti comuni, democratizzando l'accesso all'informazione. Permise e-commerce, social media e trasformazione digitale di praticamente ogni industria e aspetto della vita."
     },
     {
       "id": 14,
-      "title": "The Smartphone",
+      "title": "Lo Smartphone",
       "year": 2007,
-      "category": "Computing",
+      "category": "Informatica",
       "inventor": "Apple Inc.",
-      "location": "United States",
-      "description": "Mobile device combining cellular phone, computer, camera, and internet access in a single handheld device. The iPhone introduced the modern touchscreen smartphone paradigm.",
-      "impact": "Put the power of computing and global communication in everyone's pocket. Transformed how people access information, communicate, work, and navigate the world. Enabled the mobile app economy and location-based services."
+      "location": "Stati Uniti",
+      "description": "Dispositivo mobile che combina telefono cellulare, computer, fotocamera e accesso internet in un singolo dispositivo portatile. L'iPhone introdusse il paradigma moderno dello smartphone con touchscreen.",
+      "impact": "Mise il potere del computing e della comunicazione globale in tasca a tutti. Trasformò come le persone accedono alle informazioni, comunicano, lavorano e navigano nel mondo. Permise l'economia delle app mobili e servizi basati sulla posizione."
     },
     {
       "id": 15,
-      "title": "The Wheel",
+      "title": "La Ruota",
       "year": -3500,
-      "category": "Transportation",
-      "inventor": "Ancient Mesopotamians",
+      "category": "Trasporti",
+      "inventor": "Antichi Mesopotamici",
       "location": "Mesopotamia",
-      "description": "Circular frame that revolves on an axle, used for transportation and machinery. One of humanity's most fundamental inventions, initially used for pottery making before transportation.",
-      "impact": "Revolutionized transportation, enabling carts, wagons, and eventually all wheeled vehicles. Fundamental to mechanical engineering and virtually all machinery. Essential for the development of civilization."
+      "description": "Struttura circolare che ruota su un asse, utilizzata per trasporti e macchinari. Una delle invenzioni più fondamentali dell'umanità, inizialmente usata per ceramica prima dei trasporti.",
+      "impact": "Rivoluzionò i trasporti, permettendo carri, carretti e alla fine tutti i veicoli con ruote. Fondamentale per l'ingegneria meccanica e praticamente tutti i macchinari. Essenziale per lo sviluppo della civiltà."
     },
     {
       "id": 16,
-      "title": "Agriculture",
+      "title": "L'Agricoltura",
       "year": -10000,
-      "category": "Food",
-      "inventor": "Various Ancient Peoples",
-      "location": "Multiple Regions",
-      "description": "The deliberate cultivation of plants and domestication of animals for food production. Marked the transition from hunter-gatherer societies to settled farming communities.",
-      "impact": "Enabled permanent settlements, population growth, and the development of civilization. Freed humans from nomadic food-gathering, allowing specialization of labor and the development of arts, sciences, and technology."
+      "category": "Alimentazione",
+      "inventor": "Vari Popoli Antichi",
+      "location": "Regioni Multiple",
+      "description": "La coltivazione deliberata di piante e l'addomesticamento di animali per la produzione alimentare. Segnò la transizione dalle società di cacciatori-raccoglitori alle comunità agricole stanziali.",
+      "impact": "Permise insediamenti permanenti, crescita demografica e sviluppo della civiltà. Liberò gli umani dalla raccolta nomade di cibo, permettendo specializzazione del lavoro e sviluppo di arti, scienze e tecnologia."
     },
     {
       "id": 17,
-      "title": "Writing Systems",
+      "title": "I Sistemi di Scrittura",
       "year": -3200,
-      "category": "Communication",
-      "inventor": "Ancient Sumerians",
+      "category": "Comunicazione",
+      "inventor": "Antichi Sumeri",
       "location": "Mesopotamia",
-      "description": "Systems of visual symbols representing language, starting with cuneiform script. Enabled the recording and transmission of information across time and space.",
-      "impact": "Revolutionized human communication and knowledge preservation. Enabled the development of literature, law, history, and complex societies. Foundation for all subsequent technological and cultural advancement."
+      "description": "Sistemi di simboli visivi che rappresentano il linguaggio, iniziando con la scrittura cuneiforme. Permisero la registrazione e trasmissione di informazioni attraverso tempo e spazio.",
+      "impact": "Rivoluzionarono la comunicazione umana e la conservazione della conoscenza. Permisero lo sviluppo di letteratura, legge, storia e società complesse. Fondamento per tutti i successivi avanzamenti tecnologici e culturali."
     },
     {
       "id": 18,
-      "title": "The Compass",
+      "title": "La Bussola",
       "year": 206,
-      "category": "Navigation",
-      "inventor": "Ancient Chinese",
-      "location": "China",
-      "description": "Navigation instrument using a magnetized needle to indicate magnetic north. Originally used for geomancy, later adapted for navigation during the Song Dynasty.",
-      "impact": "Enabled accurate navigation and long-distance sea travel. Crucial for maritime exploration, trade, and the Age of Discovery. Connected distant civilizations and enabled global commerce."
+      "category": "Navigazione",
+      "inventor": "Antichi Cinesi",
+      "location": "Cina",
+      "description": "Strumento di navigazione che utilizza un ago magnetizzato per indicare il nord magnetico. Originariamente usata per geomanzia, successivamente adattata per navigazione durante la Dinastia Song.",
+      "impact": "Permise navigazione accurata e viaggi marittimi a lunga distanza. Cruciale per esplorazione marittima, commercio e l'Era delle Scoperte. Collegò civiltà lontane e permise commercio globale."
     },
     {
       "id": 19,
-      "title": "Gunpowder",
+      "title": "La Polvere da Sparo",
       "year": 850,
-      "category": "Military",
-      "inventor": "Chinese Alchemists",
-      "location": "China",
-      "description": "Explosive mixture of sulfur, charcoal, and potassium nitrate. Initially used for fireworks and later developed into weapons and mining explosives.",
-      "impact": "Transformed warfare and ended the dominance of armored knights and castle fortifications. Enabled mining and construction projects. Changed the balance of military power globally."
+      "category": "Militare",
+      "inventor": "Alchimisti Cinesi",
+      "location": "Cina",
+      "description": "Miscela esplosiva di zolfo, carbone e nitrato di potassio. Inizialmente usata per fuochi d'artificio e successivamente sviluppata in armi ed esplosivi per miniere.",
+      "impact": "Trasformò la guerra e pose fine al dominio dei cavalieri corazzati e fortificazioni dei castelli. Permise progetti minerari e di costruzione. Cambiò l'equilibrio del potere militare globalmente."
     },
     {
       "id": 20,
-      "title": "The Microscope",
+      "title": "Il Microscopio",
       "year": 1590,
-      "category": "Science",
+      "category": "Scienza",
       "inventor": "Zacharias Janssen",
-      "location": "Netherlands",
-      "description": "Optical instrument that magnifies small objects to make them visible to the human eye. Used compound lenses to achieve greater magnification than simple magnifying glasses.",
-      "impact": "Opened up the microscopic world, leading to discoveries in biology, medicine, and materials science. Essential for understanding diseases, developing vaccines, and advancing medical knowledge."
+      "location": "Paesi Bassi",
+      "description": "Strumento ottico che ingrandisce piccoli oggetti per renderli visibili all'occhio umano. Utilizzava lenti composte per ottenere maggiore ingrandimento rispetto alle semplici lenti d'ingrandimento.",
+      "impact": "Aprì il mondo microscopico, portando a scoperte in biologia, medicina e scienza dei materiali. Essenziale per comprendere malattie, sviluppare vaccini e avanzare la conoscenza medica."
+    },
+    {
+      "id": 21,
+      "title": "Il Ferro",
+      "year": -1200,
+      "category": "Metallurgia",
+      "inventor": "Ittiti",
+      "location": "Anatolia",
+      "description": "Lavorazione del ferro per creare strumenti e armi più resistenti e duraturi rispetto al bronzo. La tecnologia della fusione del ferro si diffuse gradualmente in tutto il mondo antico.",
+      "impact": "Rivoluzionò l'agricoltura, la guerra e l'artigianato. Strumenti di ferro più efficienti aumentarono la produttività agricola, mentre armi di ferro cambiarono l'equilibrio militare. Fondò l'Età del Ferro."
+    },
+    {
+      "id": 22,
+      "title": "Il Vetro",
+      "year": -3000,
+      "category": "Materiali",
+      "inventor": "Fenici",
+      "location": "Medio Oriente",
+      "description": "Materiale trasparente creato fondendo sabbia silicea ad alte temperature. Inizialmente usato per ornamenti e contenitori, successivamente sviluppato per finestre e strumenti ottici.",
+      "impact": "Permise sviluppi in ottica, architettura e conservazione. Finestre di vetro migliorarono l'illuminazione degli edifici, mentre lenti di vetro portarono a telescopi e microscopi, rivoluzionando scienza e astronomia."
+    },
+    {
+      "id": 23,
+      "title": "La Carta",
+      "year": 105,
+      "category": "Comunicazione",
+      "inventor": "Cai Lun",
+      "location": "Cina",
+      "description": "Materiale di scrittura leggero e economico fatto da fibre vegetali macerate. Sostituì materiali più costosi e pesanti come pergamena e papiro per la scrittura e la stampa.",
+      "impact": "Democratizzò la scrittura e la conoscenza riducendo il costo dei materiali di scrittura. Essenziale per la diffusione della letteratura, dell'educazione e della burocrazia. Fondamentale per lo sviluppo della stampa."
+    },
+    {
+      "id": 24,
+      "title": "Gli Occhiali",
+      "year": 1286,
+      "category": "Ottica",
+      "inventor": "Alessandro Spina",
+      "location": "Italia",
+      "description": "Lenti correttive montate in una struttura per migliorare la vista. Primi dispositivi ottici personali che permisero alle persone con problemi di vista di leggere e lavorare più efficacemente.",
+      "impact": "Estese la vita produttiva di studiosi e artigiani, permettendo lavoro di precisione anche in età avanzata. Precedettore di tutti i dispositivi ottici correttivi moderni e strumenti di precisione."
+    },
+    {
+      "id": 25,
+      "title": "L'Orologio Meccanico",
+      "year": 1280,
+      "category": "Misurazione",
+      "inventor": "Artigiani Europei",
+      "location": "Europa",
+      "description": "Dispositivo meccanico per misurare il tempo utilizzando un meccanismo di scappamento. Permise misurazione precisa del tempo indipendentemente dalle condizioni atmosferiche.",
+      "impact": "Rivoluzionò l'organizzazione sociale e lavorativa, permettendo coordinamento preciso di attività. Fondamentale per navigazione, scienza e sviluppo della società industriale moderna."
+    },
+    {
+      "id": 26,
+      "title": "Il Telescopio",
+      "year": 1608,
+      "category": "Ottica",
+      "inventor": "Hans Lippershey",
+      "location": "Paesi Bassi",
+      "description": "Strumento ottico che ingrandisce oggetti distanti utilizzando un sistema di lenti. Permise osservazione dettagliata di corpi celesti e oggetti lontani sulla Terra.",
+      "impact": "Rivoluzionò l'astronomia, portando alle scoperte di Galileo e cambiando la comprensione dell'universo. Essenziale per navigazione e osservazioni scientifiche, aprendo nuove frontiere della conoscenza."
+    },
+    {
+      "id": 27,
+      "title": "La Macchina da Scrivere",
+      "year": 1868,
+      "category": "Comunicazione",
+      "inventor": "Christopher Sholes",
+      "location": "Stati Uniti",
+      "description": "Dispositivo meccanico per produrre caratteri stampati premendo tasti. Standardizzò la produzione di documenti scritti e migliorò la velocità e leggibilità della scrittura.",
+      "impact": "Trasformò uffici e comunicazione commerciale, creando nuove opportunità di lavoro specialmente per le donne. Precedette il computer e gettò le basi per l'automazione d'ufficio moderna."
+    },
+    {
+      "id": 28,
+      "title": "La Fotografia",
+      "year": 1826,
+      "category": "Arte",
+      "inventor": "Nicéphore Niépce",
+      "location": "Francia",
+      "description": "Processo per catturare e fissare immagini utilizzando luce e sostanze chimiche fotosensibili. Prima tecnica per creare immagini permanenti della realtà senza disegno manuale.",
+      "impact": "Rivoluzionò arte, giornalismo e documentazione storica. Permise conservazione visiva di momenti e luoghi, cambiando percezione e memoria collettiva. Fondamento per cinema e media visivi moderni."
+    },
+    {
+      "id": 29,
+      "title": "Il Motore Elettrico",
+      "year": 1821,
+      "category": "Energia",
+      "inventor": "Michael Faraday",
+      "location": "Inghilterra",
+      "description": "Dispositivo che converte energia elettrica in energia meccanica utilizzando elettromagnetismo. Primo motore pratico che non richiedeva combustione o vapore per funzionare.",
+      "impact": "Rese possibile l'automazione industriale e elettrodomestici. Fondamentale per trasporti elettrici, produzione di massa e la moderna società elettrificata. Base per innumerevoli applicazioni moderne."
+    },
+    {
+      "id": 30,
+      "title": "La Refrigerazione",
+      "year": 1748,
+      "category": "Conservazione",
+      "inventor": "William Cullen",
+      "location": "Scozia",
+      "description": "Processo artificiale per rimuovere calore e mantenere basse temperature. Permise conservazione a lungo termine di cibo e altri materiali deperibili.",
+      "impact": "Rivoluzionò conservazione alimentare e distribuzione, permettendo trasporto globale di prodotti deperibili. Migliorò salute pubblica riducendo malattie alimentari e permise sviluppo dell'industria alimentare moderna."
+    },
+    {
+      "id": 31,
+      "title": "Il Cinema",
+      "year": 1895,
+      "category": "Intrattenimento",
+      "inventor": "Fratelli Lumière",
+      "location": "Francia",
+      "description": "Tecnologia per catturare, registrare e proiettare immagini in movimento. Combinò fotografia e meccanismi di proiezione per creare l'illusione del movimento.",
+      "impact": "Creò una nuova forma d'arte e industria dell'intrattenimento. Trasformò cultura popolare, educazione e propaganda. Fondamento per tutti i media audiovisivi moderni e l'industria cinematografica globale."
+    },
+    {
+      "id": 32,
+      "title": "I Raggi X",
+      "year": 1895,
+      "category": "Medicina",
+      "inventor": "Wilhelm Röntgen",
+      "location": "Germania",
+      "description": "Radiazione elettromagnetica ad alta energia capace di penetrare tessuti molli e creare immagini di strutture interne del corpo. Rivoluzionò la diagnostica medica.",
+      "impact": "Trasformò medicina permettendo diagnosi non invasive. Salvò innumerevoli vite permettendo rilevazione precoce di fratture, malattie e problemi interni. Fondamento per imaging medico moderno."
+    },
+    {
+      "id": 33,
+      "title": "La Penicillina",
+      "year": 1928,
+      "category": "Medicina",
+      "inventor": "Alexander Fleming",
+      "location": "Scozia",
+      "description": "Primo antibiotico efficace scoperto accidentalmente da una muffa. Capace di uccidere o inibire crescita di batteri patogeni senza danneggiare significativamente l'ospite.",
+      "impact": "Rivoluzionò medicina moderna salvando milioni di vite. Rese curabili infezioni precedentemente mortali e permise chirurgie complesse. Iniziò l'era degli antibiotici e trasformò aspettativa di vita umana."
+    },
+    {
+      "id": 34,
+      "title": "La Televisione",
+      "year": 1926,
+      "category": "Comunicazione",
+      "inventor": "John Logie Baird",
+      "location": "Scozia",
+      "description": "Sistema per trasmettere immagini in movimento e suono a distanza utilizzando onde elettromagnetiche. Combinò tecnologie radio e video per intrattenimento e informazione di massa.",
+      "impact": "Trasformò intrattenimento, notizie e cultura globale. Creò la prima forma di media visivo di massa, influenzando politica, società e comportamento. Unificò esperienze culturali attraverso il mondo."
+    },
+    {
+      "id": 35,
+      "title": "Il Laser",
+      "year": 1960,
+      "category": "Ottica",
+      "inventor": "Theodore Maiman",
+      "location": "Stati Uniti",
+      "description": "Dispositivo che emette luce coerente amplificata attraverso emissione stimolata di radiazione. Produce fascio di luce estremamente focalizzato e potente.",
+      "impact": "Rivoluzionò comunicazioni ottiche, medicina, industria e ricerca scientifica. Permise chirurgia di precisione, comunicazioni in fibra ottica, e innumerevoli applicazioni industriali e scientifiche."
+    },
+    {
+      "id": 36,
+      "title": "Il DNA",
+      "year": 1953,
+      "category": "Scienza",
+      "inventor": "Watson, Crick, Franklin",
+      "location": "Inghilterra",
+      "description": "Scoperta della struttura a doppia elica del DNA, il materiale genetico che contiene le istruzioni per lo sviluppo e funzionamento degli organismi viventi.",
+      "impact": "Rivoluzionò biologia e medicina, portando a biotecnologie, terapia genica e medicina personalizzata. Fondamento per comprensione moderna della vita e sviluppo di trattamenti medici avanzati."
+    },
+    {
+      "id": 37,
+      "title": "Il Circuito Integrato",
+      "year": 1958,
+      "category": "Elettronica",
+      "inventor": "Jack Kilby",
+      "location": "Stati Uniti",
+      "description": "Dispositivo semiconduttore che integra multipli componenti elettronici su un singolo chip. Miniaturizzò drasticamente circuiti elettronici complessi.",
+      "impact": "Rese possibili computer personali, elettronica di consumo e rivoluzione digitale. Fondamento per tutti i dispositivi elettronici moderni, da smartphone a sistemi spaziali."
+    },
+    {
+      "id": 38,
+      "title": "L'Energia Nucleare",
+      "year": 1942,
+      "category": "Energia",
+      "inventor": "Enrico Fermi",
+      "location": "Stati Uniti",
+      "description": "Prima reazione nucleare controllata che dimostrò la possibilità di generare energia massiva dalla fissione atomica. Aprì l'era dell'energia nucleare.",
+      "impact": "Fornì nuova fonte di energia massiva per elettricità e propulsione. Trasformò geopolitica globale e offrì alternativa ai combustibili fossili, pur introducendo nuove sfide ambientali e di sicurezza."
+    },
+    {
+      "id": 39,
+      "title": "Il Satellite Artificiale",
+      "year": 1957,
+      "category": "Spazio",
+      "inventor": "Unione Sovietica",
+      "location": "URSS",
+      "description": "Primo oggetto artificiale posto in orbita terrestre (Sputnik 1). Dimostrò la fattibilità di tecnologia spaziale e comunicazioni satellitari.",
+      "impact": "Iniziò l'era spaziale e trasformò comunicazioni globali, navigazione, meteorologia e osservazione terrestre. Fondamentale per GPS, telecomunicazioni moderne e esplorazione spaziale."
+    },
+    {
+      "id": 40,
+      "title": "Il Codice a Barre",
+      "year": 1974,
+      "category": "Commercio",
+      "inventor": "George Laurer",
+      "location": "Stati Uniti",
+      "description": "Sistema di identificazione automatica che utilizza pattern di linee parallele per codificare informazioni sui prodotti. Rivoluzionò gestione inventario e vendite al dettaglio.",
+      "impact": "Trasformò commercio al dettaglio permettendo checkout rapido e gestione inventario automatizzata. Migliorò efficienza della catena di approvvigionamento e rese possibile il commercio moderno su larga scala."
     }
   ]
 }
